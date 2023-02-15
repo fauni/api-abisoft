@@ -1,0 +1,12 @@
+D:\ABISOFT\api-platos\CapaSeguridad\bin\Debug\net6.0\CapaSeguridad.deps.json
+D:\ABISOFT\api-platos\CapaSeguridad\bin\Debug\net6.0\CapaSeguridad.dll
+D:\ABISOFT\api-platos\CapaSeguridad\bin\Debug\net6.0\CapaSeguridad.pdb
+D:\ABISOFT\api-platos\CapaSeguridad\obj\Debug\net6.0\CapaSeguridad.csproj.AssemblyReference.cache
+D:\ABISOFT\api-platos\CapaSeguridad\obj\Debug\net6.0\CapaSeguridad.GeneratedMSBuildEditorConfig.editorconfig
+D:\ABISOFT\api-platos\CapaSeguridad\obj\Debug\net6.0\CapaSeguridad.AssemblyInfoInputs.cache
+D:\ABISOFT\api-platos\CapaSeguridad\obj\Debug\net6.0\CapaSeguridad.AssemblyInfo.cs
+D:\ABISOFT\api-platos\CapaSeguridad\obj\Debug\net6.0\CapaSeguridad.csproj.CoreCompileInputs.cache
+D:\ABISOFT\api-platos\CapaSeguridad\obj\Debug\net6.0\CapaSeguridad.dll
+D:\ABISOFT\api-platos\CapaSeguridad\obj\Debug\net6.0\refint\CapaSeguridad.dll
+D:\ABISOFT\api-platos\CapaSeguridad\obj\Debug\net6.0\CapaSeguridad.pdb
+D:\ABISOFT\api-platos\CapaSeguridad\obj\Debug\net6.0\ref\CapaSeguridad.dll

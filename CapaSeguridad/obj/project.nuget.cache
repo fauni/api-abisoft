@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "CEONoKU1LIXOTYnr8kqwv+Pa7gD9b+9BXKLBj/jqcZcE8KiDInP2mhUngmZ1ZANo4hmCC8CKOaKIT1I0ZeO/vA==",
+  "success": true,
+  "projectFilePath": "D:\\ABISOFT\\api-platos\\CapaSeguridad\\CapaSeguridad.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Franz Aruni\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\Franz Aruni\\.nuget\\packages\\nlog\\5.1.1\\nlog.5.1.1.nupkg.sha512",
+    "C:\\Users\\Franz Aruni\\.nuget\\packages\\system.configuration.configurationmanager\\7.0.0\\system.configuration.configurationmanager.7.0.0.nupkg.sha512",
+    "C:\\Users\\Franz Aruni\\.nuget\\packages\\system.diagnostics.eventlog\\7.0.0\\system.diagnostics.eventlog.7.0.0.nupkg.sha512",
+    "C:\\Users\\Franz Aruni\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
+    "C:\\Users\\Franz Aruni\\.nuget\\packages\\system.security.cryptography.protecteddata\\7.0.0\\system.security.cryptography.protecteddata.7.0.0.nupkg.sha512",
+    "C:\\Users\\Franz Aruni\\.nuget\\packages\\system.security.permissions\\7.0.0\\system.security.permissions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Franz Aruni\\.nuget\\packages\\system.windows.extensions\\7.0.0\\system.windows.extensions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

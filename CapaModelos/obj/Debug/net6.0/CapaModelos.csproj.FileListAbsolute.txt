@@ -1,0 +1,12 @@
+D:\ABISOFT\api-platos\CapaModelos\bin\Debug\net6.0\CapaModelos.deps.json
+D:\ABISOFT\api-platos\CapaModelos\bin\Debug\net6.0\CapaModelos.dll
+D:\ABISOFT\api-platos\CapaModelos\bin\Debug\net6.0\CapaModelos.pdb
+D:\ABISOFT\api-platos\CapaModelos\obj\Debug\net6.0\CapaModelos.csproj.AssemblyReference.cache
+D:\ABISOFT\api-platos\CapaModelos\obj\Debug\net6.0\CapaModelos.GeneratedMSBuildEditorConfig.editorconfig
+D:\ABISOFT\api-platos\CapaModelos\obj\Debug\net6.0\CapaModelos.AssemblyInfoInputs.cache
+D:\ABISOFT\api-platos\CapaModelos\obj\Debug\net6.0\CapaModelos.AssemblyInfo.cs
+D:\ABISOFT\api-platos\CapaModelos\obj\Debug\net6.0\CapaModelos.csproj.CoreCompileInputs.cache
+D:\ABISOFT\api-platos\CapaModelos\obj\Debug\net6.0\CapaModelos.dll
+D:\ABISOFT\api-platos\CapaModelos\obj\Debug\net6.0\refint\CapaModelos.dll
+D:\ABISOFT\api-platos\CapaModelos\obj\Debug\net6.0\CapaModelos.pdb
+D:\ABISOFT\api-platos\CapaModelos\obj\Debug\net6.0\ref\CapaModelos.dll

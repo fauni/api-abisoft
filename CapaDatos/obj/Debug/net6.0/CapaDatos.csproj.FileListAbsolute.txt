@@ -1,0 +1,15 @@
+D:\ABISOFT\api-platos\CapaDatos\bin\Debug\net6.0\CapaDatos.deps.json
+D:\ABISOFT\api-platos\CapaDatos\bin\Debug\net6.0\CapaDatos.dll
+D:\ABISOFT\api-platos\CapaDatos\bin\Debug\net6.0\CapaDatos.pdb
+D:\ABISOFT\api-platos\CapaDatos\bin\Debug\net6.0\CapaSeguridad.dll
+D:\ABISOFT\api-platos\CapaDatos\bin\Debug\net6.0\CapaSeguridad.pdb
+D:\ABISOFT\api-platos\CapaDatos\obj\Debug\net6.0\CapaDatos.csproj.AssemblyReference.cache
+D:\ABISOFT\api-platos\CapaDatos\obj\Debug\net6.0\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+D:\ABISOFT\api-platos\CapaDatos\obj\Debug\net6.0\CapaDatos.AssemblyInfoInputs.cache
+D:\ABISOFT\api-platos\CapaDatos\obj\Debug\net6.0\CapaDatos.AssemblyInfo.cs
+D:\ABISOFT\api-platos\CapaDatos\obj\Debug\net6.0\CapaDatos.csproj.CoreCompileInputs.cache
+D:\ABISOFT\api-platos\CapaDatos\obj\Debug\net6.0\CapaDatos.csproj.CopyComplete
+D:\ABISOFT\api-platos\CapaDatos\obj\Debug\net6.0\CapaDatos.dll
+D:\ABISOFT\api-platos\CapaDatos\obj\Debug\net6.0\refint\CapaDatos.dll
+D:\ABISOFT\api-platos\CapaDatos\obj\Debug\net6.0\CapaDatos.pdb
+D:\ABISOFT\api-platos\CapaDatos\obj\Debug\net6.0\ref\CapaDatos.dll
